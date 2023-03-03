@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-03T16:37:54Z" name="Suite" finished-at="2023-03-03T16:39:12Z" duration-ms="78046">
+    <groups>
+    </groups>
+    <test started-at="2023-03-03T16:37:54Z" name="Test" finished-at="2023-03-03T16:39:12Z" duration-ms="78046">
+      <class name="StepDefinitions.OsTesting">
+        <test-method signature="click_on_os_buttton()[pri:12, instance:StepDefinitions.OsTesting@51bde877]" started-at="2023-03-03T16:38:41Z" name="click_on_os_buttton" finished-at="2023-03-03T16:38:43Z" duration-ms="2015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_os_buttton -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.OsTesting@51bde877]" started-at="2023-03-03T16:38:41Z" name="extentStart" finished-at="2023-03-03T16:38:41Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.OsTesting.click_on_os_buttton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.OsTesting@51bde877]" started-at="2023-03-03T16:38:43Z" name="extentEnd" finished-at="2023-03-03T16:38:43Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_os_buttton status=SUCCESS method=OsTesting.click_on_os_buttton()[pri:12, instance:StepDefinitions.OsTesting@51bde877] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.OsTesting@51bde877]" started-at="2023-03-03T16:38:43Z" name="extentStart" finished-at="2023-03-03T16:38:43Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.OsTesting.click_on_the_sms_messaging_button()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="click_on_the_sms_messaging_button()[pri:13, instance:StepDefinitions.OsTesting@51bde877]" started-at="2023-03-03T16:38:43Z" name="click_on_the_sms_messaging_button" finished-at="2023-03-03T16:38:44Z" duration-ms="1485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_the_sms_messaging_button -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.OsTesting@51bde877]" started-at="2023-03-03T16:38:44Z" name="extentEnd" finished-at="2023-03-03T16:38:44Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_the_sms_messaging_button status=SUCCESS method=OsTesting.click_on_the_sms_messaging_button()[pri:13, instance:StepDefinitions.OsTesting@51bde877] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.OsTesting@51bde877]" started-at="2023-03-03T16:38:44Z" name="extentStart" finished-at="2023-03-03T16:38:44Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.OsTesting.check_the_text_feild_functionality() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="check_the_text_feild_functionality()[pri:14, instance:StepDefinitions.OsTesting@51bde877]" started-at="2023-03-03T16:38:44Z" name="check_the_text_feild_functionality" finished-at="2023-03-03T16:38:49Z" duration-ms="4323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_the_text_feild_functionality -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.OsTesting@51bde877]" started-at="2023-03-03T16:38:49Z" name="extentEnd" finished-at="2023-03-03T16:38:49Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=check_the_text_feild_functionality status=SUCCESS method=OsTesting.check_the_text_feild_functionality()[pri:14, instance:StepDefinitions.OsTesting@51bde877] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+      </class> <!-- StepDefinitions.OsTesting -->
+      <class name="StepDefinitions.Hooks">
+        <test-method is-config="true" signature="Start_The_Service()[pri:0, instance:StepDefinitions.Hooks@79ab3a71]" started-at="2023-03-03T16:37:32Z" name="Start_The_Service" finished-at="2023-03-03T16:37:54Z" duration-ms="21274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start_The_Service -->
+        <test-method is-config="true" signature="End_The_Service()[pri:0, instance:StepDefinitions.Hooks@79ab3a71]" started-at="2023-03-03T16:39:12Z" name="End_The_Service" finished-at="2023-03-03T16:39:13Z" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End_The_Service -->
+      </class> <!-- StepDefinitions.Hooks -->
+      <class name="StepDefinitions.GraphicTest">
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:38:49Z" name="extentStart" finished-at="2023-03-03T16:38:49Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.GraphicTest.click_on_graphic_buttton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="click_on_graphic_buttton()[pri:15, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:38:49Z" name="click_on_graphic_buttton" finished-at="2023-03-03T16:38:56Z" duration-ms="7659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_graphic_buttton -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:38:56Z" name="extentEnd" finished-at="2023-03-03T16:38:56Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_graphic_buttton status=SUCCESS method=GraphicTest.click_on_graphic_buttton()[pri:15, instance:StepDefinitions.GraphicTest@60b85ba1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:38:56Z" name="extentStart" finished-at="2023-03-03T16:38:56Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.GraphicTest.click_on_animate_drawable_button_then_go_back()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="click_on_animate_drawable_button_then_go_back()[pri:16, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:38:56Z" name="click_on_animate_drawable_button_then_go_back" finished-at="2023-03-03T16:38:59Z" duration-ms="2455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_animate_drawable_button_then_go_back -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:38:59Z" name="extentEnd" finished-at="2023-03-03T16:38:59Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_animate_drawable_button_then_go_back status=SUCCESS method=GraphicTest.click_on_animate_drawable_button_then_go_back()[pri:16, instance:StepDefinitions.GraphicTest@60b85ba1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:38:59Z" name="extentStart" finished-at="2023-03-03T16:38:59Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.GraphicTest.click_on_density_button_then_go_back()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="click_on_density_button_then_go_back()[pri:17, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:38:59Z" name="click_on_density_button_then_go_back" finished-at="2023-03-03T16:39:02Z" duration-ms="2797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_density_button_then_go_back -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:39:02Z" name="extentEnd" finished-at="2023-03-03T16:39:02Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_density_button_then_go_back status=SUCCESS method=GraphicTest.click_on_density_button_then_go_back()[pri:17, instance:StepDefinitions.GraphicTest@60b85ba1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:39:02Z" name="extentStart" finished-at="2023-03-03T16:39:02Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.GraphicTest.scroll_up_in_grapic_section()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="scroll_up_in_grapic_section()[pri:18, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:39:02Z" name="scroll_up_in_grapic_section" finished-at="2023-03-03T16:39:10Z" duration-ms="8525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll_up_in_grapic_section -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:39:10Z" name="extentEnd" finished-at="2023-03-03T16:39:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scroll_up_in_grapic_section status=SUCCESS method=GraphicTest.scroll_up_in_grapic_section()[pri:18, instance:StepDefinitions.GraphicTest@60b85ba1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method signature="click_on_surfaceview_overly()[pri:19, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:39:10Z" name="click_on_surfaceview_overly" finished-at="2023-03-03T16:39:12Z" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_surfaceview_overly -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:39:10Z" name="extentStart" finished-at="2023-03-03T16:39:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.GraphicTest.click_on_surfaceview_overly()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.GraphicTest@60b85ba1]" started-at="2023-03-03T16:39:12Z" name="extentEnd" finished-at="2023-03-03T16:39:12Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_surfaceview_overly status=SUCCESS method=GraphicTest.click_on_surfaceview_overly()[pri:19, instance:StepDefinitions.GraphicTest@60b85ba1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+      </class> <!-- StepDefinitions.GraphicTest -->
+      <class name="StepDefinitions.ContentTest">
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:07Z" name="extentStart" finished-at="2023-03-03T16:38:07Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.ContentTest.first_click_on_content_and_undo_button()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="first_click_on_content_and_undo_button()[pri:6, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:07Z" name="first_click_on_content_and_undo_button" finished-at="2023-03-03T16:38:09Z" duration-ms="2363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first_click_on_content_and_undo_button -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:09Z" name="extentEnd" finished-at="2023-03-03T16:38:09Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=first_click_on_content_and_undo_button status=SUCCESS method=ContentTest.first_click_on_content_and_undo_button()[pri:6, instance:StepDefinitions.ContentTest@3d829787] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:09Z" name="extentStart" finished-at="2023-03-03T16:38:09Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.ContentTest.enter_the_textview_data() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="enter_the_textview_data()[pri:7, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:09Z" name="enter_the_textview_data" finished-at="2023-03-03T16:38:13Z" duration-ms="3778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_the_textview_data -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:13Z" name="extentEnd" finished-at="2023-03-03T16:38:13Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enter_the_textview_data status=SUCCESS method=ContentTest.enter_the_textview_data()[pri:7, instance:StepDefinitions.ContentTest@3d829787] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:13Z" name="extentStart" finished-at="2023-03-03T16:38:13Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.ContentTest.click_on_textview_button()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="click_on_textview_button()[pri:8, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:13Z" name="click_on_textview_button" finished-at="2023-03-03T16:38:15Z" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_textview_button -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:15Z" name="extentEnd" finished-at="2023-03-03T16:38:15Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_textview_button status=SUCCESS method=ContentTest.click_on_textview_button()[pri:8, instance:StepDefinitions.ContentTest@3d829787] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:15Z" name="extentStart" finished-at="2023-03-03T16:38:15Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.ContentTest.enter_all_textview_field() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="enter_all_textview_field()[pri:9, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:15Z" name="enter_all_textview_field" finished-at="2023-03-03T16:38:20Z" duration-ms="5345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_all_textview_field -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.ContentTest@3d829787]" started-at="2023-03-03T16:38:20Z" name="extentEnd" finished-at="2023-03-03T16:38:20Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enter_all_textview_field status=SUCCESS method=ContentTest.enter_all_textview_field()[pri:9, instance:StepDefinitions.ContentTest@3d829787] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+      </class> <!-- StepDefinitions.ContentTest -->
+      <class name="StepDefinitions.AnimationTest">
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:37:54Z" name="extentStart" finished-at="2023-03-03T16:37:54Z" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.AnimationTest.first_click_on_animation_button() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="first_click_on_animation_button()[pri:1, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:37:54Z" name="first_click_on_animation_button" finished-at="2023-03-03T16:37:56Z" duration-ms="2138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first_click_on_animation_button -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:37:56Z" name="extentEnd" finished-at="2023-03-03T16:37:56Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=first_click_on_animation_button status=SUCCESS method=AnimationTest.first_click_on_animation_button()[pri:1, instance:StepDefinitions.AnimationTest@6e5bfdfc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:37:56Z" name="extentStart" finished-at="2023-03-03T16:37:56Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.AnimationTest.click_on_hide_show_animation_button()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="click_on_hide_show_animation_button()[pri:2, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:37:56Z" name="click_on_hide_show_animation_button" finished-at="2023-03-03T16:37:58Z" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_hide_show_animation_button -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:37:58Z" name="extentEnd" finished-at="2023-03-03T16:37:58Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_hide_show_animation_button status=SUCCESS method=AnimationTest.click_on_hide_show_animation_button()[pri:2, instance:StepDefinitions.AnimationTest@6e5bfdfc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method signature="check_the_hide_button_working()[pri:3, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:37:58Z" name="check_the_hide_button_working" finished-at="2023-03-03T16:38:01Z" duration-ms="3001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_the_hide_button_working -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:37:58Z" name="extentStart" finished-at="2023-03-03T16:37:58Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.AnimationTest.check_the_hide_button_working()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:38:01Z" name="extentEnd" finished-at="2023-03-03T16:38:01Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=check_the_hide_button_working status=SUCCESS method=AnimationTest.check_the_hide_button_working()[pri:3, instance:StepDefinitions.AnimationTest@6e5bfdfc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:38:01Z" name="extentStart" finished-at="2023-03-03T16:38:01Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.AnimationTest.check_the_show_button_working() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="check_the_show_button_working()[pri:4, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:38:01Z" name="check_the_show_button_working" finished-at="2023-03-03T16:38:01Z" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_the_show_button_working -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:38:01Z" name="extentEnd" finished-at="2023-03-03T16:38:01Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=check_the_show_button_working status=SUCCESS method=AnimationTest.check_the_show_button_working()[pri:4, instance:StepDefinitions.AnimationTest@6e5bfdfc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:38:01Z" name="extentStart" finished-at="2023-03-03T16:38:01Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.AnimationTest.check_the_custom_button_working() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="check_the_custom_button_working()[pri:5, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:38:01Z" name="check_the_custom_button_working" finished-at="2023-03-03T16:38:07Z" duration-ms="5957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_the_custom_button_working -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.AnimationTest@6e5bfdfc]" started-at="2023-03-03T16:38:07Z" name="extentEnd" finished-at="2023-03-03T16:38:07Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=check_the_custom_button_working status=SUCCESS method=AnimationTest.check_the_custom_button_working()[pri:5, instance:StepDefinitions.AnimationTest@6e5bfdfc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+      </class> <!-- StepDefinitions.AnimationTest -->
+      <class name="StepDefinitions.SimpleTransitionTest">
+        <test-method signature="check_the_scrollup_functionality()[pri:10, instance:StepDefinitions.SimpleTransitionTest@71652c98]" started-at="2023-03-03T16:38:20Z" name="check_the_scrollup_functionality" finished-at="2023-03-03T16:38:23Z" duration-ms="2905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_the_scrollup_functionality -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.SimpleTransitionTest@71652c98]" started-at="2023-03-03T16:38:20Z" name="extentStart" finished-at="2023-03-03T16:38:20Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.SimpleTransitionTest.check_the_scrollup_functionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.SimpleTransitionTest@71652c98]" started-at="2023-03-03T16:38:23Z" name="extentEnd" finished-at="2023-03-03T16:38:23Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=check_the_scrollup_functionality status=SUCCESS method=SimpleTransitionTest.check_the_scrollup_functionality()[pri:10, instance:StepDefinitions.SimpleTransitionTest@71652c98] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+        <test-method is-config="true" signature="extentStart(java.lang.reflect.Method)[pri:0, instance:StepDefinitions.SimpleTransitionTest@71652c98]" started-at="2023-03-03T16:38:23Z" name="extentStart" finished-at="2023-03-03T16:38:23Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void StepDefinitions.SimpleTransitionTest.click_on_simple_transition_button_and_check_functionality() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method signature="click_on_simple_transition_button_and_check_functionality()[pri:11, instance:StepDefinitions.SimpleTransitionTest@71652c98]" started-at="2023-03-03T16:38:23Z" name="click_on_simple_transition_button_and_check_functionality" finished-at="2023-03-03T16:38:41Z" duration-ms="17836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_simple_transition_button_and_check_functionality -->
+        <test-method is-config="true" signature="extentEnd(org.testng.ITestResult)[pri:0, instance:StepDefinitions.SimpleTransitionTest@71652c98]" started-at="2023-03-03T16:38:41Z" name="extentEnd" finished-at="2023-03-03T16:38:41Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_simple_transition_button_and_check_functionality status=SUCCESS method=SimpleTransitionTest.click_on_simple_transition_button_and_check_functionality()[pri:11, instance:StepDefinitions.SimpleTransitionTest@71652c98] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentEnd -->
+      </class> <!-- StepDefinitions.SimpleTransitionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
